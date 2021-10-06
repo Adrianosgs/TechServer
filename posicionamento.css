@@ -1,0 +1,22 @@
+div {
+    height: 50px;
+    background-color: #ccc;
+    border: 1px solid;
+}
+
+
+.relative {
+    position: relative;
+}
+
+
+.absolute {
+    width: 60px;
+    height: 20px;
+    position: absolute;
+    bottom: 10px;
+    
+    display: inline-block;
+    right: 0;
+}
+
